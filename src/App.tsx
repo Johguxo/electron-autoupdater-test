@@ -11,7 +11,7 @@ function App() {
         // Listen for the app version from the main process
         window.electron.onAppVersion((version) => {
             setVersion(version);
-            document.title = `My App Released - v${version}`;
+            document.title = `My App Released into - v${version}`;
         });
     }, []);
 

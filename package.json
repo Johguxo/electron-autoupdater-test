@@ -1,7 +1,7 @@
 {
   "name": "electron-autoupdater-test",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A description of your app",
   "author": "Camilo Ramos",
   "scripts": {
